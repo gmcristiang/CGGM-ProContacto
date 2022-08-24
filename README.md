@@ -586,7 +586,7 @@ El Mapping se puede generar automaticamnte o manual.
 
 ![11](https://user-images.githubusercontent.com/111897670/186498763-e3f54d47-fe51-4127-8884-2408ba981359.JPG)
 
-### Se realiza un reporte para ver laa cuentas cargadas con los campos requeridos en SFDC
+### Se realiza un reporte para ver las cuentas cargadas con los campos requeridos en SFDC
 
 ![221](https://user-images.githubusercontent.com/111897670/186500395-c46f9e1b-ea50-40dc-b4e2-72ed95dc5bc4.PNG)
 ![222](https://user-images.githubusercontent.com/111897670/186500416-525284d0-cf1e-4b95-89b9-1956ccc77066.PNG)
