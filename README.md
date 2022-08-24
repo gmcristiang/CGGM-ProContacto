@@ -557,5 +557,14 @@ Es un sistema que ayuda a automatizar y administrar los procesos empresariales d
 Salesforce es una plataforma CRM. Un ERP hace mención a la planificación de recursos empresariales (Enterprise Resources Planning) y el CRM se refiere a la gestión de las relaciones con los clientes (Customer Relationship Management)
 
 
-
 ## Ejercicio 7
+
+### Importar un archivo CSV
+
+Para importar un archivo CSV en SFDC se puede hacer de varias fotmas, una de ellas es usando la herramienta DATALOADER. Los pasos a seguir para una importación son los siguentes:
+
+1. Tener el archivo a cargar en formato CSV y tener un Layout de carga del objeto al que se le hara la carga para hacer realizar la carga sin errores.}
+
+![Captura](https://user-images.githubusercontent.com/111897670/186496212-16f4e1a1-ef6a-49ff-829d-d2c8dfffc8c5.JPG)
+
+
