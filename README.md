@@ -438,6 +438,10 @@ Los Article contienen información sobre los productos y servicios de su compañ
 - SystemModstamp
 - TotalViewCount
 
+#### Relacion de los Objetos
+
+![Capture](https://user-images.githubusercontent.com/111897670/186464269-01c1d781-81f4-46f2-a41f-65b958a21124.PNG)
+
 ## Ejercicio 6
 
 ### Soluciones de Salesforce
