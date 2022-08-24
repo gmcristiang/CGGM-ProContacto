@@ -5,6 +5,6 @@ EVALUACIÓN PRÁCTICA
 ## Ejercicio 1
 
 
-## Ejercicio 1
+## Ejercicio 4
 
-[Cristian](https://trailblazer.me/id/cgarcia222)
+[Trailhead-Cristian](https://trailblazer.me/id/cgarcia222)
