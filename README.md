@@ -53,11 +53,16 @@ Son la parte central de los HTTP requests y responses, y transmiten información
 
 
 
+
 ## Ejercicio 4
 
 En la siguiente liga esta el Traihead con los modulos solicitados resultos. 
 
 [Trailhead - Cristian](https://trailblazer.me/id/cgarcia222)
+
+![Captura de pantalla 2022-08-24 103614](https://user-images.githubusercontent.com/111897670/186461526-159f08cf-5ba5-4f5a-a541-89952cc08745.png)
+![Captura de pantalla 2022-08-24 103705](https://user-images.githubusercontent.com/111897670/186461591-294118cd-1a1b-4f71-aa93-00aed1eb8c74.png)
+
 
 ## Ejercicio 5
 
