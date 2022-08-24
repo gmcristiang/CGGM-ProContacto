@@ -563,8 +563,36 @@ Salesforce es una plataforma CRM. Un ERP hace mención a la planificación de re
 
 Para importar un archivo CSV en SFDC se puede hacer de varias fotmas, una de ellas es usando la herramienta DATALOADER. Los pasos a seguir para una importación son los siguentes:
 
-1. Tener el archivo a cargar en formato CSV y tener un Layout de carga del objeto al que se le hara la carga para hacer realizar la carga sin errores.}
+1. Tener el archivo a cargar en formato CSV y tener un Layout de carga del objeto al que se le hara la carga para hacer realizar la carga sin errores.
 
 ![Captura](https://user-images.githubusercontent.com/111897670/186496212-16f4e1a1-ef6a-49ff-829d-d2c8dfffc8c5.JPG)
+
+2. En Dataloader acceder con el perfil de la organización a la cual se le hara la carga de datos, una vez que se inicio sesión en la organización se dara click en el boton de "insert"
+
+![Captura2](https://user-images.githubusercontent.com/111897670/186496856-e5257810-eb08-4a2c-a7d6-567f6f6e90b2.JPG)
+
+3. Se seleciona el objeto al cual se le hara la carga o actulización y tambien se selecciona el archivo CSV que tiene la información.
+
+![5](https://user-images.githubusercontent.com/111897670/186497401-2ac6ad45-ec44-436c-b1ca-d04e8759e7e5.JPG)
+
+4. Una vez cargado el archivo se tendrá que hacer un Mapping de los campos que se van a cargar en el objeto.
+
+![6](https://user-images.githubusercontent.com/111897670/186497923-7226dc4e-1ea7-4084-827a-6336091fdea7.JPG)
+![9](https://user-images.githubusercontent.com/111897670/186498053-b44b813e-b943-46b8-af33-319d5084c395.JPG)
+
+El Mapping se puede generar automaticamnte o manual.
+
+5. Se elige una carpeta donde se guardaran las cargas con exito y las cargas con error y se da click en Finish, Dataloader empezara a realizar la carga en automatico a la organización.
+
+![11](https://user-images.githubusercontent.com/111897670/186498763-e3f54d47-fe51-4127-8884-2408ba981359.JPG)
+
+### Se realiza un reporte para ver laa cuentas cargadas con los campos requeridos en SFDC
+
+![221](https://user-images.githubusercontent.com/111897670/186500395-c46f9e1b-ea50-40dc-b4e2-72ed95dc5bc4.PNG)
+![222](https://user-images.githubusercontent.com/111897670/186500416-525284d0-cf1e-4b95-89b9-1956ccc77066.PNG)
+
+
+
+
 
 
